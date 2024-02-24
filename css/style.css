@@ -3,7 +3,8 @@
 /** Addtional fonts go here: https://gwfh.mranftl.com/fonts **/
 
 html,body{
-	font-family: Lato, 'Helvetica Neue', Arial, sans-serif;
+	font-family: Georgia, 'Helvetica Neue', Arial, sans-serif;
+    font-size: 18px;
 }
 
 h1,h2,h3,h4,h5{
